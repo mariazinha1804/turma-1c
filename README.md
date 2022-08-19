@@ -1,1 +1,2 @@
-# turma-1c
+#turma1c
+arquuivo de pensamento computacional
