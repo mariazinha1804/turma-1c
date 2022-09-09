@@ -1,2 +1,4 @@
-#turma1c
-arquuivo de pensamento computacional
+# turma-1c
+Arquuivo de pensamento computacional
+## linguagem
+html, css, java
